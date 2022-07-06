@@ -6,6 +6,8 @@ The codes are for the following papers：
 - Zhou Q, Li R, Zhao Z, et al. Semantic communication with adaptive universal transformer[J]. IEEE Wireless Communications Letters, 2021, 11(3): 453-457,
 accepted IEEE Wireless Communications Letters. https://arxiv.org/pdf/2203.06634
 
+***Any use of the codes should cite the aforementioned papers.***
+
 # Dataset:
 For dataset, it is available online at http://www.statmt.org/europarl/
 
