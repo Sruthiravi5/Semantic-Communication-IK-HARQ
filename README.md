@@ -22,4 +22,4 @@ Train with *Incremental Knowledge-HARQ (IK-HARQ)*: modeltrainIKHARQ.py
 
 Train with *Denoiser*: modeltraindenoiser1.py and modeltraindenoiser2.py
 
-Train with *Adaptive Bit Rate control*: modeltrainmultibitratepart(123).py, modeltrainpolicynetpart(12).py
+Train with *Adaptive Bit Rate control*: modeltrainmultibitratepart(1/2/3).py, modeltrainpolicynetpart(1/2).py
