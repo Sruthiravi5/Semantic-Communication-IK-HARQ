@@ -1,4 +1,4 @@
-# semantic-communication-
+# ***Related Papers***
 The code for the contributed paper：
 
 Zhou Q, Li R, Zhao Z, et al. Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-based HARQ[J]. arXiv preprint arXiv:2203.06634, 2022, accepted IEEE Open Journal of the Communications Society.
