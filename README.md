@@ -14,6 +14,8 @@ For dataset, it is available online at http://www.statmt.org/europarl/
 # Run the code:
 To *pre-process the data*: preprocess_captions.py
 
+- Note: The file "parallel corpus French-English, 194 MB, 04/1996-11/2011" shall be downloaded [online](http://www.statmt.org/europarl/). Then, the file "english.pkl" is expected to be obtained after using "preprocess_captions.py" to preprocess the file "fr-en.tgz".
+
 To *get the baseline*: modeltrainbase.py
 
 To *get the result after quantification*: modeltrainbasequantification1.py and modeltrainbasequantification2.py
