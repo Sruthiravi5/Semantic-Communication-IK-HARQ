@@ -11,6 +11,8 @@ accepted IEEE Wireless Communications Letters. https://arxiv.org/pdf/2203.06634
 # Dataset:
 For dataset, it is available online at http://www.statmt.org/europarl/
 
+Choose the file "parallel corpus French-English, 194 MB, 04/1996-11/2011".
+
 # Run the code:
 To *pre-process the data*: preprocess_captions.py
 
